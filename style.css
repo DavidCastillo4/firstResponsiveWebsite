@@ -1,4 +1,4 @@
-body, p, div {margin: 0; padding: 0;}
+body, p, div, main, #top, #bottom {margin: 0; padding: 0;}
 
 main {display: grid;}
 #top, .title, .txt {text-align: center;}
